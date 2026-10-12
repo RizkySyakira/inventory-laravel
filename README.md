@@ -27,7 +27,7 @@ Aplikasi ini dikembangkan menggunakan Laravel dan database MySQL.
 
 ### 1. Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.png.png)
 
 ### 2. Data Produk
 
